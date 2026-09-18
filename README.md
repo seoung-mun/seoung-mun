@@ -1,4 +1,3 @@
-Hi! I'm an AI & backend developer into **LLM agents and reinforcement learning** — I build LLM features as verifiable flows, not plausible answers, and ship RL models as real web services. 🧭
 
 ----
 ### Personal stats:
@@ -9,9 +8,9 @@ Hi! I'm an AI & backend developer into **LLM agents and reinforcement learning**
 
   - 📚 Languages: Java, Python, TypeScript
   - ⚙️ Backend: Spring Boot, FastAPI, PostgreSQL, Redis, WebSocket
-  - 🧠 AI / LLM: LangGraph / LangChain, RAG (FAISS), LLM output guardrails
-  - 🎮 RL / DL: PyTorch, TensorFlow, Keras, Gymnasium (PPO)
-  - 🔧 Infra & Etc.: Docker Compose, Caddy, GitHub Actions, Git
+  - 🧠 AI / LLM: LangGraph / LangChain, RAG, LLM output guardrails
+  - 🎮 RL / DL: PyTorch, TensorFlow, Keras, Gymnasium
+  - 🔧 Infra & Etc.: Docker Compose, Caddy, GitHub Actions, Git, AWS
 </details>
 
 ### 💪 Skills
