@@ -1,4 +1,4 @@
-Hi! I'm a backend & AI developer who builds LLM features as **verifiable flows, not plausible answers** — Spring Boot / FastAPI services with LangGraph agents, and RL models shipped as real web services. 🧭
+Hi! I'm an AI & backend developer into **LLM agents and reinforcement learning** — I build LLM features as verifiable flows, not plausible answers, and ship RL models as real web services. 🧭
 
 ----
 ### Personal stats:
@@ -9,7 +9,8 @@ Hi! I'm a backend & AI developer who builds LLM features as **verifiable flows, 
 
   - 📚 Languages: Java, Python, TypeScript
   - ⚙️ Backend: Spring Boot, FastAPI, PostgreSQL, Redis, WebSocket
-  - 🧠 AI: LangGraph / LangChain, RAG (FAISS), PyTorch (PPO), LLM output guardrails
+  - 🧠 AI / LLM: LangGraph / LangChain, RAG (FAISS), LLM output guardrails
+  - 🎮 RL / DL: PyTorch, TensorFlow, Keras, Gymnasium (PPO)
   - 🔧 Infra & Etc.: Docker Compose, Caddy, GitHub Actions, Git
 </details>
 
@@ -21,6 +22,8 @@ Hi! I'm a backend & AI developer who builds LLM features as **verifiable flows, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
