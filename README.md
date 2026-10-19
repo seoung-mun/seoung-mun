@@ -7,13 +7,13 @@
   <br/>
 
   - 📚 Languages: Java, Python, TypeScript
-  - ⚙️ Backend: Spring Boot, FastAPI, PostgreSQL, Redis, WebSocket
-  - 🧠 AI / LLM: LangGraph / LangChain, RAG, LLM output guardrails
+  - ⚙️ Backend: Spring Boot, FastAPI, PostgreSQL
+  - 🧠 AI / LLM: LangGraph / LangChain, RAG
   - 🎮 RL / DL: PyTorch, TensorFlow, Keras, Gymnasium
-  - 🔧 Infra & Etc.: Docker Compose, Caddy, GitHub Actions, Git, AWS
+  - 🔧 Infra & Etc.: Docker, Git, AWS
 </details>
 
-### 💪 Skills
+### Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
